@@ -1,0 +1,12 @@
+body {
+    background-color: hotpink;
+}
+
+#main-title {
+    border: solid 5px black;
+    text-align: center;
+}
+
+.blue {
+    color: blue;
+}
